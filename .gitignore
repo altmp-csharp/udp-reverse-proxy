@@ -1,0 +1,5 @@
+*.idea
+UdpReverseProxy/bin
+UdpReverseProxy/obj
+.DS_STORE
+*.sln.DotSettings.user

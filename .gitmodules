@@ -1,0 +1,3 @@
+[submodule "thirdparty/Pipelines.Sockets.Unofficial"]
+	path = thirdparty/Pipelines.Sockets.Unofficial
+	url = git@github.com:mgravell/Pipelines.Sockets.Unofficial.git
